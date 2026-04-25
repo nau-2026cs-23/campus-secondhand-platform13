@@ -1,5 +1,5 @@
 # 校园好物 - Campus Marketplace
-
+#校园二手交易平台
 A full-stack campus second-hand trading platform built for verified students and faculty.
 
 ## Project Structure
